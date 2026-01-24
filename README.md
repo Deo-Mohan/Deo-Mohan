@@ -145,6 +145,8 @@
 </div>
 
 <br/>
+<h2 id="-latest-blogs">✍️ Latest Tech Articles</h2>
+<br/>
 
 <h2 id="-connect-hub">📫 Connect Hub</h2>
 
