@@ -145,6 +145,7 @@
 </div>
 
 <br/>
+
 <h2 id="-latest-blogs">✍️ Latest Tech Articles</h2>
 <br/>
 
@@ -160,9 +161,22 @@
   <a href="https://dev.to/krishna-mohan-kumar">
     <img src="https://img.shields.io/badge/Dev.to-Read_Blogs-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
-  
+  <a href="mailto:krishnamohan813101@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=141414,FFD700&height=100&section=footer" width="100%" />
-  
+
+  <h3><i>"Building the future, one commit at a time."</i></h3>
+  <p>
+    <b>&copy; 2026 Krishna Mohan Kumar</b>
+    <br/>
+    Designed with ❤️ in the Golden Victory Theme
+  </p>
+
   <img src="https://komarev.com/ghpvc/?username=Deo-Mohan&label=Profile%20Views&color=FFD700&style=flat-square" alt="Profile Views" />
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=141414,FFD700&height=100&section=footer" width="100%" />
 </div>
