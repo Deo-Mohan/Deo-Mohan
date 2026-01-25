@@ -26,7 +26,7 @@
   <br/>
   
   <a href="resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄_View_Resume-Download_PDF-FFD700?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=black&labelColor=141414" />
+    <img src="https://img.shields.io/badge/📄_View_Resume-FFD700?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=black&labelColor=141414" />
   </a>
   &nbsp;
   <a href="mailto:krishnamohan813101@gmail.com">
@@ -36,7 +36,9 @@
 
 <br/>
 
-<h2 id="-about-me">👨‍💻 About Me</h2>
+<h2 id="-about-me">
+  👨‍💻 About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" alt="Hi Animation">
+</h2>
 
 <table>
   <tr>
