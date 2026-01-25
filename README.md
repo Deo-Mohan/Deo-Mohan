@@ -1,19 +1,26 @@
 <div align="center">
-  <h3>
-    <a href="#-about-me">👨‍💻 About</a> &nbsp; • &nbsp;
-    <a href="#-education-journey">🎓 Edu</a> &nbsp; • &nbsp;
-    <a href="#-career-timeline">⏳ Journey</a> &nbsp; • &nbsp;
-    <a href="#-tech-arsenal">🚀 Tech</a> &nbsp; • &nbsp;
-    <a href="#-signature-projects">🏆 Projects</a> &nbsp; • &nbsp;
-    <a href="#-connect-hub">📫 Contact</a>
-  </h3>
+  <a href="#-about-me">
+    <img src="https://img.shields.io/badge/ABOUT%20ME-FF0055?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="#-education-journey">
+    <img src="https://img.shields.io/badge/EDUCATION-7000FF?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="#-tech-arsenal">
+    <img src="https://img.shields.io/badge/TECH%20STACK-00E5FF?style=for-the-badge&logoColor=black" />
+  </a>
+  <a href="#-signature-projects">
+    <img src="https://img.shields.io/badge/PROJECTS-FFD700?style=for-the-badge&logo=github&logoColor=black&labelColor=FFD700" />
+  </a>
+  <a href="#-connect-hub">
+    <img src="https://img.shields.io/badge/CONTACT-2ecc71?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=2ecc71" />
+  </a>
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=141414,FFD700&height=320&section=header&text=Krishna%20Mohan%20Kumar&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20SIH%20Winner%20%7C%20National%20Athlete&descAlignY=60&descSize=20&fontColor=ffffff" width="100%" alt="Header" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7B801&center=true&vCenter=true&width=700&lines=SIH+2025+Grand+Winner+%F0%9F%8F%86;Building+Scalable+MERN+Apps+%F0%9F%9A%80;Oracle+Certified+Professional+%E2%98%81%EF%B8%8F;National+Volleyball+Player+%F0%9F%8F%90" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7B801&center=true&vCenter=true&width=700&lines=SIH+2025+Grand+Winner+%F0%9F%8F%86;Building+Scalable+MERN+Apps+%F0%9F%9A%80;Always+Learning+Something+%E2%98%81%EF%B8%8F;National+Volleyball+Player+%F0%9F%8F%90" alt="Typing SVG" />
   </a>
   
   <br/>
@@ -81,19 +88,19 @@
   <table>
     <tr>
       <td align="center" width="120"><b>Frontend</b></td>
-      <td><img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,figma,canva&theme=dark" /></td>
+      <td><img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,canva&theme=dark" /></td>
     </tr>
     <tr>
       <td align="center" width="120"><b>Backend</b></td>
-      <td><img src="https://skillicons.dev/icons?i=nodejs,express,java,cpp,python&theme=dark" /></td>
+      <td><img src="https://skillicons.dev/icons?i=nodejs,express,java,cpp&theme=dark" /></td>
     </tr>
     <tr>
       <td align="center" width="120"><b>Database/Cloud</b></td>
-      <td><img src="https://skillicons.dev/icons?i=mongodb,firebase,oracle,mysql&theme=dark" /></td>
+      <td><img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql&theme=dark" /></td>
     </tr>
     <tr>
       <td align="center" width="120"><b>DevOps/Tools</b></td>
-      <td><img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark" /></td>
+      <td><img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" /></td>
     </tr>
   </table>
 </div>
