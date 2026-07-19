@@ -131,30 +131,42 @@
 
 <br/>
 
-<h2 id="-github-analytics">📊 GitHub Analytics</h2>
+<h2 id="-github-analytics">📊 GitHub Analytics Dashboard</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deo-Mohan&show_icons=true&theme=nightowl&hide_border=true&bg_color=141414&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deo-Mohan&layout=compact&theme=nightowl&hide_border=true&bg_color=141414&langs_count=6" height="150" />
-  <br/><br/>
+  <!-- Dynamic Unified Profile Details Card Layer -->
+  <img src="https://github-profile-summary-cards-seven.vercel.app/api/cards/profile-details?username=Deo-Mohan&theme=nightowl" width="100%" alt="GitHub Analytics Dashboard" />
   
-  <img src="https://github-profile-trophies.vercel.app/?username=Deo-Mohan&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
+  <br/><br/>
+
+  <!-- High-Contrast Fake Glassmorphism Grid Layout -->
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <!-- Left Card Container -->
+      <td align="center" width="50%" style="padding: 10px;">
+        <div style="background: #141414; border: 1px solid rgba(255, 215, 0, 0.25); border-radius: 12px; padding: 15px; box-shadow: 0px 8px 24px rgba(0,0,0,0.5);">
+          <img src="https://github-readme-stats-alpha.vercel.app/api?username=Deo-Mohan&show_icons=true&hide_border=true&bg_color=141414&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&count_private=true" height="180" alt="Overall Stats" />
+        </div>
+      </td>
+      <!-- Right Card Container -->
+      <td align="center" width="50%" style="padding: 10px;">
+        <div style="background: #141414; border: 1px solid rgba(255, 215, 0, 0.25); border-radius: 12px; padding: 15px; box-shadow: 0px 8px 24px rgba(0,0,0,0.5);">
+          <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Deo-Mohan&layout=compact&hide_border=true&bg_color=141414&title_color=FFD700&text_color=FFFFFF&langs_count=6" height="180" alt="Language Split" />
+        </div>
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  <img src="https://github-profile-trophies.vercel.app/?username=Deo-Mohan&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
 <br/>
-
-<h3 align="center">🏙️ Contribution City</h3>
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
-</div>
 
 <h3 align="center">🐍 Contribution History</h3>
 <div align="center">
   <img src="https://github.com/Deo-Mohan/Deo-Mohan/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
-
-<br/>
-
 
 <br/>
 
