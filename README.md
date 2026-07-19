@@ -46,7 +46,7 @@
       <img src="profile.jpg" width="150" style="border-radius: 50%; border: 4px solid #FFD700;" alt="Profile Pic"/>
     </td>
     <td width="50%">
-      <h3><i>"Code like a Developer, Lead like a Captain."</i></h3>
+      <h3><a href="#-connect-hub" style="text-decoration: none; color: #FFD700;"><i>"Code like a Developer, Lead like a Captain."</i></a></h3>
       I am a <b>High-Performance Developer</b> based in Bhopal, India. I engineer victories—whether it's architecting the winning solution for the <b>Smart India Hackathon (SIH)</b> or leading my University's Volleyball team at the <b>National Level</b>.
       <br/><br/>
       🔹 <b>Focus:</b> MERN Stack, System Design, AI Integration.<br/>
@@ -75,11 +75,11 @@
 
 > **2025 (The Golden Year)**
 > * 🏆 **Winner:** Smart India Hackathon (SIH) Grand Finale (₹1.5 Lakhs).
-> * ☁️ **Certified:** Oracle Cloud Infrastructure (OCI) Developer.
+> * ☁️ **Certified:** Various cerficiates from Cisco ,ServiceNow,FSP.
 > * 🏐 **Captain:** Led "Phantom Techies" & Engineering Olympics Team.
 
 > **2024**
-> * 🇮🇳 **National Player:** Represented RGPV University (West Zone AIU).
+> * **Volleyball Player:** Represented RGPV University (West Zone AIU).
 > * 🥇 **Gold Medal:** Corporate Carnival 2K24 (Best Smasher).
 
 <br/>
@@ -87,22 +87,24 @@
 <h2 id="-tech-arsenal">🚀 Tech Arsenal</h2>
 
 <div align="center">
-  <table>
+  <table border="0" cellpadding="5">
     <tr>
-      <td align="center" width="120"><b>Frontend</b></td>
-      <td><img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,canva&theme=dark" /></td>
-    </tr>
-    <tr>
-      <td align="center" width="120"><b>Backend</b></td>
-      <td><img src="https://skillicons.dev/icons?i=nodejs,express,java,cpp&theme=dark" /></td>
-    </tr>
-    <tr>
-      <td align="center" width="120"><b>Database/Cloud</b></td>
-      <td><img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql&theme=dark" /></td>
-    </tr>
-    <tr>
-      <td align="center" width="120"><b>DevOps/Tools</b></td>
-      <td><img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" /></td>
+      <td align="center" valign="top" width="25%">
+        <h4>Frontend</h4>
+        <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js&theme=dark" width="130px" />
+      </td>
+      <td align="center" valign="top" width="25%">
+        <h4>Backend</h4>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,java,cpp&theme=dark" width="105px" />
+      </td>
+      <td align="center" valign="top" width="25%">
+        <h4>Database</h4>
+        <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql&theme=dark" width="105px" />
+      </td>
+      <td align="center" valign="top" width="25%">
+        <h4>Tools</h4>
+        <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" width="105px" />
+      </td>
     </tr>
   </table>
 </div>
@@ -111,10 +113,69 @@
 
 <h2 id="-signature-projects">🏆 Signature Projects</h2>
 
-| **Project** | **Tech Stack** | **Impact** |
-| :--- | :--- | :--- |
-| **🥇 EduSphere**<br>*(SIH Winner)* | `React` `Node.js` `Firebase` `Geofencing` | **Solved Proxy Attendance.** Used Geofencing + Dynamic QR codes. Includes an AI "Learning Validation" engine. |
-| **🤖 Med AI Bot**<br>*(Healthcare)* | `Gemini AI` `OpenFDA` `REST API` | **Multimodal Assistant.** Identify drugs via image (Gemini) and check interactions via OpenFDA API. |
+### 🥇 EduSphere (Smart India Hackathon Grand Winner)
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td style="background: #141414; border: 1px solid rgba(255, 215, 0, 0.25); border-radius: 12px; padding: 20px; box-shadow: 0px 8px 24px rgba(0,0,0,0.4);">
+      <p align="right">
+        <img src="https://img.shields.io/badge/MERN-Stack-cyan?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/Firebase-Database-orange?style=flat-square&logo=firebase" />
+        <img src="https://img.shields.io/badge/Geofencing-Active-brightgreen?style=flat-square" />
+      </p>
+      <p><b>The Problem:</b> Smart Curriculum Activity and Attendance App(SIH25011).</p>
+      <p><b>The Solution:</b> Engineered an asymmetric validation cycle combining cryptographic dynamic QR signatures with precise geofencing parameters. Built with an AI-driven learning validation loop engine to ensure authentic physical presence.</p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Status-Private%20Repository-red?style=flat-square&logo=github" />
+        <img src="https://img.shields.io/badge/Production-Secure-brightgreen?style=flat-square" />
+      </p>
+      <br />
+      <p align="left">
+        <a href="https://phantomapex.netlify.app" target="_blank">
+          <img src="https://img.shields.io/badge/🚀_Launch_Live_Application-141414?style=for-the-badge&logo=netlify&logoColor=cyan&border=FFD700" />
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://github.com/Deo-Mohan/PhantomApex.git" target="_blank">
+          <img src="https://img.shields.io/badge/📂_Request_Access-141414?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🤖 Med AI Bot (Healthcare Intelligence Assistant)
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td style="background: #141414; border: 1px solid rgba(255, 215, 0, 0.25); border-radius: 12px; padding: 20px; box-shadow: 0px 8px 24px rgba(0,0,0,0.4);">
+      <p align="right">
+        <img src="https://img.shields.io/badge/Gemini%20AI-Multimodal-purple?style=flat-square&logo=google-gemini" />
+        <img src="https://img.shields.io/badge/OpenFDA-API-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Architecture-REST-orange?style=flat-square" />
+      </p>
+      <p><b>The Purpose:</b> Advanced multimodal medical tool engineered to identify pharmaceutical drugs using image processing and instantly query severe interaction complications using OpenFDA systems.</p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Status-Private%20Repository-red?style=flat-square&logo=github" />
+      </p>
+      <br />
+      <p align="left">
+        <a href="https://github.com/Deo-Mohan/Minor-Project.git" target="_blank">
+          <img src="https://img.shields.io/badge/📂_Request_Access-141414?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<details>
+<summary><b>🛠️ The Core Engineering Architecture Behind EduSphere (Click to Expand)</b></summary>
+<br/>
+<p>
+  Our team ("Phantom Techies") engineered an automated system to stop attendance proxy fraud. By generating asymmetric cryptographic tokens tied down by network cell tower distance validation loops, check-in attempts are verified inside hardware boundaries securely.
+</p>
+</details>
 
 <br/>
 
@@ -122,7 +183,6 @@
 <summary><b>📜 View Certifications & Achievements (Click Me)</b></summary>
 <br/>
 <ul>
-  <li>☁️ <b>Oracle Cloud Infrastructure (OCI)</b> Developer Professional</li>
   <li>🛡️ <b>Cisco Networking Academy:</b> Cybersecurity & IoT Essentials</li>
   <li>🏐 <b>Sports:</b> West Zone National Player (Volleyball)</li>
   <li>🗣️ <b>Public Speaking:</b> LNCT IIC Speech Competition Winner</li>
@@ -139,19 +199,36 @@
   
   <br/><br/>
 
-  <!-- High-Contrast Fake Glassmorphism Grid Layout -->
+  <!-- High-Contrast Fake Glassmorphism Grid Layout (GitHub Stats) -->
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
       <!-- Left Card Container -->
       <td align="center" width="50%" style="padding: 10px;">
-        <div style="background: #141414; border: 1px solid rgba(255, 215, 0, 0.25); border-radius: 12px; padding: 15px; box-shadow: 0px 8px 24px rgba(0,0,0,0.5);">
+        <div style="background: #141414; border: 1px solid rgba(255, 215, 0, 0.25); border-radius: 12px; padding: 15px; box-shadow: 0px 8px 24px rgba(0,0,0,0.5); min-height: 210px; display: flex; align-items: center; justify-content: center;">
           <img src="https://github-readme-stats-alpha.vercel.app/api?username=Deo-Mohan&show_icons=true&hide_border=true&bg_color=141414&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&count_private=true" height="180" alt="Overall Stats" />
         </div>
       </td>
       <!-- Right Card Container -->
       <td align="center" width="50%" style="padding: 10px;">
-        <div style="background: #141414; border: 1px solid rgba(255, 215, 0, 0.25); border-radius: 12px; padding: 15px; box-shadow: 0px 8px 24px rgba(0,0,0,0.5);">
+        <div style="background: #141414; border: 1px solid rgba(255, 215, 0, 0.25); border-radius: 12px; padding: 15px; box-shadow: 0px 8px 24px rgba(0,0,0,0.5); min-height: 210px; display: flex; align-items: center; justify-content: center;">
           <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Deo-Mohan&layout=compact&hide_border=true&bg_color=141414&title_color=FFD700&text_color=FFFFFF&langs_count=6" height="180" alt="Language Split" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<h2 id="-algorithmic-insights">🧮 Algorithmic Insights (LeetCode)</h2>
+
+<div align="center">
+  <!-- Expanded Full-Width LeetCode Metrics Card Layer -->
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <div style="background: #141414; border: 1px solid rgba(255, 215, 0, 0.25); border-radius: 12px; padding: 25px; box-shadow: 0px 8px 24px rgba(0,0,0,0.5); width: 97.5%; display: flex; align-items: center; justify-content: center;">
+          <img src="https://leetcard.jacoblin.cool/deo_mohan?theme=dark&font=Fira%20Code" width="100%" alt="LeetCode Metrics Hub" />
         </div>
       </td>
     </tr>
